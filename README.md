@@ -1,4 +1,9 @@
 ### Hi there 👋
+- ✏️ I'm a Computer Science student at Universidade Franciscana (UFN).
+- 💻 I'm currently working at AVMB, analysing and developing systems focused on the tax system.
+- 👩‍💻 I'm familiar with JavaScript, jQuery, HTML, CSS, Lua, Oracle and DB2 db.
+- 🌱 I'm learning React and Node.
+- 🙋‍♀️ If you have any questions or just want to chat, feel free to reach me on [LinkedIn](https://linkedin.com/in/meanifreitas). 
 
 <!--
 **meanifreitas/meanifreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
