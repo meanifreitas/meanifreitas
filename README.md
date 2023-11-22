@@ -2,7 +2,7 @@
 - ✏️ I'm a Computer Science student at Universidade Franciscana (UFN).
 - 💻 I'm currently working at AVMB, analysing and developing systems focused on the tax system.
 - 👩‍💻 I'm familiar with JavaScript, jQuery, HTML, CSS, Lua, Java, Oracle and DB2 db.
-- 🌱 I'm learning React and Node.
+- 🌱 I'm learning React, Node and TypeScript.
 - 🙋‍♀️ If you have any questions or just want to chat, feel free to reach me on [LinkedIn](https://linkedin.com/in/meanifreitas). 
 
 <!--
