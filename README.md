@@ -10,3 +10,5 @@
 🌱 I'm learning React, Node and TypeScript.
 
 🙋‍♀️ If you have any questions or just want to chat, feel free to reach me on [LinkedIn](https://www.linkedin.com/in/meanifreitas/).
+
+[![meanifreitas](https://github-readme-stats.vercel.app/api/top-langs/?username=meanifreitas&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
