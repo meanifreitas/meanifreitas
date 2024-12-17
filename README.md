@@ -7,7 +7,7 @@
 
 👩‍💻 I'm familiar with JavaScript, TypeScript, React, Lua, Oracle and DB2 db.
 
-🌱 I'm learning Node and Python/Django.
+🌱 I'm learning Node.js and Python/Django.
 
 🙋‍♀️ If you have any questions or just want to chat, feel free to reach me on [LinkedIn](https://www.linkedin.com/in/meanifreitas/).
 
