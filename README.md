@@ -3,11 +3,11 @@
 ### Hi there 👋
 ✏️ I'm a Computer Science student at [UFN](https://site.ufn.edu.br/).
 
-💻 I'm currently working at [AVMB](https://avmb.com.br/), analysing and developing systems focused on the tax system.
+💻 I'm currently working at [Saque e Pague](https://www.saqueepague.com.br/), analysing and developing web applications focused on the financial system.
 
-👩‍💻 I'm familiar with JavaScript, jQuery, HTML, CSS, Lua, Java, Oracle and DB2 db.
+👩‍💻 I'm familiar with JavaScript, TypeScript, React, Lua, Oracle and DB2 db.
 
-🌱 I'm learning React, Node, TypeScript and Python/Django.
+🌱 I'm learning Node and Python/Django.
 
 🙋‍♀️ If you have any questions or just want to chat, feel free to reach me on [LinkedIn](https://www.linkedin.com/in/meanifreitas/).
 
