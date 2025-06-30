@@ -5,7 +5,7 @@
 
 💻 I'm currently working at [Saque e Pague](https://www.saqueepague.com.br/), analysing and developing web applications focused on the financial system.
 
-👩‍💻 I'm familiar with JavaScript, TypeScript, React, Node.js, Lua, Oracle and DB2 db.
+👩‍💻 I'm familiar with JavaScript, TypeScript, React, Node.js, jQuery, Lua, Oracle and DB2 db.
 
 🌱 I'm learning Vue.js and Python/Django.
 
